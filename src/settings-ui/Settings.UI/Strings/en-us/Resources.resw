@@ -2152,4 +2152,10 @@ From there, simply click on one of the supported files in the File Explorer and 
   <data name="AlwaysOnTop_RoundCorners.Content" xml:space="preserve">
     <value>Enable round corners</value>
   </data>
+  <data name="BandwidthMonitor_Enable.Header" xml:space="preserve">
+    <value>Enable Bandwidth Monitor</value>
+  </data>
+  <data name="BandwidthMonitor.ModuleDescription" xml:space="preserve">
+    <value>Bandwidth Monitor is a quick and easy way to monitor the bandwidth usage of your system.</value>
+  </data>
 </root>
